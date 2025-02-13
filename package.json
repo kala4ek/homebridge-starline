@@ -1,6 +1,6 @@
 {
   "displayName": "StarLine",
-  "name": "homebridge-starline",
+  "name": "@kala4ek/homebridge-starline",
   "description": "StarLine plugin for Homebridge",
   "version": "2.0.0",
   "main": "index.js",
@@ -25,11 +25,11 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdusalamov/homebridge-starline.git"
+    "url": "git+https://github.com/kala4ek/homebridge-starline.git"
   },
-  "author": "Renat Abdusalamov",
+  "author": "kala4ek",
   "bugs": {
-    "url": "https://github.com/abdusalamov/homebridge-starline/issues"
+    "url": "https://github.com/kala4ek/homebridge-starline/issues"
   },
   "homepage": "https://github.com/abdusalamov/homebridge-starline#readme"
 }
