@@ -2,7 +2,7 @@
   "displayName": "StarLine",
   "name": "@kala4ek/homebridge-starline",
   "description": "StarLine plugin for Homebridge",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "ISC",
   "keywords": [
