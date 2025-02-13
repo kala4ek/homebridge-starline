@@ -5,7 +5,7 @@ This is a plugin for [homebridge](https://github.com/nfarina/homebridge). It all
 
 ## Installation
 - Install HomeBridge, please follow it's [README](https://github.com/nfarina/homebridge/blob/master/README.md)
-- Install this plugin using: `npm install -g --unsafe-perm homebridge-starline`
+- Install this plugin using: `npm install -g --unsafe-perm @kala4ek/homebridge-starline`
 - Update your configuration file. See below for a sample.
 - Run the HomeBridge server
 
